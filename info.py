@@ -32,7 +32,7 @@ BOT_START_TIME = time()
 PICS = (environ.get('PICS', 'https://graph.org/file/132d16a8873dc4420535f.jpg')).split()
 REQ_PICS = (environ.get('REQ_PICS', 'https://graph.org/file/132d16a8873dc4420535f.jpg')).split()
 NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/132d16a8873dc4420535f.jpg")
-MELCOW_VID = environ.get("MELCOW_VID", "https://graph.org/file/132d16a8873dc4420535f.jpg")
+MELCOW_VID = environ.get("MELCOW_VID", "https://graph.org/file/db10dff286d615aae203d.jpg")
 SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/02d8caef3ff289ca917ef.jpg")
 
 # Admins, Channels & Users
